@@ -1,2 +1,2 @@
 # netflix_clone
- my-netflic-clone
+ my-netflix-clone
